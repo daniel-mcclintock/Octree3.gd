@@ -1,2 +1,2 @@
-# octree.gd
+# Octree.gd
 Simple GDScript Octree implementation
